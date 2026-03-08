@@ -1,0 +1,44 @@
+# Formatting & Code Quality
+black
+flake8
+isort
+
+# Interactive & Notebooks
+ipython
+jupyterlab
+notebook
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Documentation
+mkdocs
+
+# Data Science & Machine Learning
+numpy
+pandas
+scikit-learn
+transformers
+torch
+catboost
+lightgbm
+spacy
+accelerate>=0.26.0
+langdetect
+sentencepiece
+bitsandbytes
+peft
+datasets
+pynvml
+
+# Serialization & File Formats
+pyarrow
+
+# Utilities
+pip
+python-dotenv
+emoji
+
+# Local Package (Editable Install)
+-e .
